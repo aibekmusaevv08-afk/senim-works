@@ -1,0 +1,655 @@
+{
+ "version": 1,
+ "rev": 1,
+ "updatedAt": "2026-10-05T10:30:35.049Z",
+ "hero": {
+  "laptop": "",
+  "phone": ""
+ },
+ "categories": [
+  {
+   "id": "landing",
+   "name": {
+    "ru": "Лендинги",
+    "kz": "Лендингтер",
+    "en": "Landing pages"
+   }
+  },
+  {
+   "id": "corp",
+   "name": {
+    "ru": "Корпоративные",
+    "kz": "Корпоративтік",
+    "en": "Corporate"
+   }
+  },
+  {
+   "id": "platform",
+   "name": {
+    "ru": "Платформы",
+    "kz": "Платформалар",
+    "en": "Platforms"
+   }
+  },
+  {
+   "id": "app",
+   "name": {
+    "ru": "Приложения",
+    "kz": "Қосымшалар",
+    "en": "Apps"
+   }
+  }
+ ],
+ "works": [
+  {
+   "id": "jiger",
+   "title": "JIGER",
+   "kind": "real",
+   "visible": true,
+   "featured": true,
+   "dark": true,
+   "domain": "jiger.app",
+   "link": "",
+   "categories": [
+    "app"
+   ],
+   "label": {
+    "ru": "Приложение · Flutter",
+    "kz": "Қосымша · Flutter",
+    "en": "App · Flutter"
+   },
+   "short": {
+    "ru": "Трекер тренировок: цели, статистика и достижения на трёх языках.",
+    "kz": "Жаттығу трекері: мақсаттар, статистика және жетістіктер үш тілде.",
+    "en": "A workout tracker with goals, stats and achievements in three languages."
+   },
+   "lead": {
+    "ru": "Приложение для учёта тренировок: спортсмен выбирает свой вид спорта, записывает тренировки, ставит цели и следит за прогрессом.",
+    "kz": "Жаттығуларды есепке алатын қосымша: спортшы өз спорт түрін таңдап, жаттығуларын жазып, мақсат қойып, прогресін бақылайды.",
+    "en": "A workout tracking app: athletes pick their sport, log workouts, set goals and follow their progress."
+   },
+   "listTitle": {
+    "ru": "Что сделали",
+    "kz": "Не жасадық",
+    "en": "What we did"
+   },
+   "list": {
+    "ru": [
+     "Выбор спорта, тренировки, цели и история",
+     "Статистика, графики и 18 достижений",
+     "Три языка: казахский, русский, английский",
+     "Версия для ноутбука и телефона"
+    ],
+    "kz": [
+     "Спорт түрін таңдау, жаттығулар, мақсаттар және тарих",
+     "Статистика, графиктер және 18 жетістік",
+     "Үш тіл: қазақ, орыс, ағылшын",
+     "Ноутбук пен телефонға арналған нұсқа"
+    ],
+    "en": [
+     "Sport selection, workouts, goals and history",
+     "Stats, charts and 18 achievements",
+     "Three languages: Kazakh, Russian, English",
+     "Laptop and phone layouts"
+    ]
+   },
+   "chipsTitle": {
+    "ru": "Технологии",
+    "kz": "Технологиялар",
+    "en": "Technologies"
+   },
+   "chips": {
+    "ru": [
+     "Flutter",
+     "Dart",
+     "Web"
+    ],
+    "kz": [
+     "Flutter",
+     "Dart",
+     "Web"
+    ],
+    "en": [
+     "Flutter",
+     "Dart",
+     "Web"
+    ]
+   },
+   "cta": {
+    "ru": "Хочу такой же проект",
+    "kz": "Осындай жоба керек",
+    "en": "I want a project like this"
+   },
+   "ctaMsg": {
+    "ru": "Здравствуйте! Хочу приложение как JIGER.",
+    "kz": "Сәлеметсіз бе! JIGER сияқты қосымша керек.",
+    "en": "Hello! I’d like an app like JIGER."
+   },
+   "images": {
+    "cover": {
+     "src": "works/jiger/cover-b8885e029e.webp",
+     "w": 1440,
+     "h": 900
+    },
+    "mobile": {
+     "src": "works/jiger/mobile-1ed8ef6bce.webp",
+     "w": 520,
+     "h": 1125
+    },
+    "full": {
+     "src": "works/jiger/full-872a1fac08.webp",
+     "w": 1200,
+     "h": 799
+    }
+   },
+   "createdAt": "2026-09-20T09:00:00.000Z",
+   "updatedAt": "2026-09-20T09:00:00.000Z"
+  },
+  {
+   "id": "qadam",
+   "title": "Qadam Coffee",
+   "kind": "concept",
+   "visible": true,
+   "featured": true,
+   "dark": false,
+   "domain": "qadam.coffee",
+   "link": "",
+   "categories": [
+    "landing"
+   ],
+   "label": {
+    "ru": "Лендинг · Кофейня",
+    "kz": "Лендинг · Кофехана",
+    "en": "Landing · Coffee shop"
+   },
+   "short": {
+    "ru": "Сайт кофейни с меню, заказом навынос и маршрутом.",
+    "kz": "Мәзірі, алып кету тапсырысы және бағыты бар кофехана сайты.",
+    "en": "A coffee shop site with a menu, takeaway ordering and directions."
+   },
+   "lead": {
+    "ru": "Лендинг для кофейни в Астане. Тёплая атмосфера с первого экрана, меню с ценами и заказ навынос без очереди.",
+    "kz": "Астанадағы кофеханаға арналған лендинг. Бірінші экраннан жылы атмосфера, бағасы бар мәзір және кезексіз алып кету тапсырысы.",
+    "en": "A landing page for a coffee shop in Astana: a warm feel from the first screen, a menu with prices and queue-free takeaway ordering."
+   },
+   "listTitle": {
+    "ru": "Что внутри",
+    "kz": "Ішінде не бар",
+    "en": "What’s inside"
+   },
+   "list": {
+    "ru": [
+     "Меню с ценами и вкладками",
+     "Заказ навынос в WhatsApp",
+     "Адреса, часы работы и маршрут в 2ГИС"
+    ],
+    "kz": [
+     "Бағасы мен қойындылары бар мәзір",
+     "WhatsApp арқылы алып кету тапсырысы",
+     "Мекенжайлар, жұмыс уақыты және 2GIS бағыты"
+    ],
+    "en": [
+     "Menu with prices and tabs",
+     "Takeaway orders via WhatsApp",
+     "Addresses, opening hours and 2GIS directions"
+    ]
+   },
+   "chipsTitle": {
+    "ru": "Подходит для",
+    "kz": "Кімге сай",
+    "en": "Great for"
+   },
+   "chips": {
+    "ru": [
+     "Кофейни",
+     "Рестораны",
+     "Пекарни"
+    ],
+    "kz": [
+     "Кофеханалар",
+     "Мейрамханалар",
+     "Наубайханалар"
+    ],
+    "en": [
+     "Coffee shops",
+     "Restaurants",
+     "Bakeries"
+    ]
+   },
+   "cta": {
+    "ru": "Хочу такой же сайт",
+    "kz": "Осындай сайт керек",
+    "en": "I want a site like this"
+   },
+   "ctaMsg": {
+    "ru": "Здравствуйте! Хочу сайт для кофейни или ресторана.",
+    "kz": "Сәлеметсіз бе! Кофехана немесе мейрамханаға сайт керек.",
+    "en": "Hello! I’d like a website for a coffee shop or restaurant."
+   },
+   "images": {
+    "cover": {
+     "src": "works/qadam/cover-d65c569f10.webp",
+     "w": 1440,
+     "h": 900
+    },
+    "mobile": {
+     "src": "works/qadam/mobile-944c8ba47e.webp",
+     "w": 520,
+     "h": 1125
+    },
+    "full": {
+     "src": "works/qadam/full-cb2d9cb86f.webp",
+     "w": 1200,
+     "h": 2206
+    }
+   },
+   "createdAt": "2026-09-20T09:00:00.000Z",
+   "updatedAt": "2026-09-20T09:00:00.000Z"
+  },
+  {
+   "id": "alatau",
+   "title": "Alatau Dental",
+   "kind": "concept",
+   "visible": true,
+   "featured": true,
+   "dark": false,
+   "domain": "alatau-dental.kz",
+   "link": "",
+   "categories": [
+    "corp"
+   ],
+   "label": {
+    "ru": "Сайт · Стоматология",
+    "kz": "Сайт · Стоматология",
+    "en": "Website · Dental clinic"
+   },
+   "short": {
+    "ru": "Сайт клиники с услугами, ценами и онлайн-записью.",
+    "kz": "Қызметтері, бағалары және онлайн жазылуы бар клиника сайты.",
+    "en": "A clinic website with services, prices and online booking."
+   },
+   "lead": {
+    "ru": "Сайт стоматологии, которому доверяют: спокойный светлый дизайн, честные цены и запись в пару кликов.",
+    "kz": "Сенім тудыратын стоматология сайты: тыныш ашық дизайн, адал бағалар және бірнеше рет басып жазылу.",
+    "en": "A dental clinic website people trust: calm, bright design, honest prices and booking in a couple of clicks."
+   },
+   "listTitle": {
+    "ru": "Что внутри",
+    "kz": "Ішінде не бар",
+    "en": "What’s inside"
+   },
+   "list": {
+    "ru": [
+     "Услуги с ценами «от»",
+     "Онлайн-запись и обратный звонок",
+     "Блок о клинике и оборудовании"
+    ],
+    "kz": [
+     "«Бастап» бағасы бар қызметтер",
+     "Онлайн жазылу және кері қоңырау",
+     "Клиника мен жабдық туралы блок"
+    ],
+    "en": [
+     "Services with starting prices",
+     "Online booking and callback requests",
+     "Clinic and equipment section"
+    ]
+   },
+   "chipsTitle": {
+    "ru": "Подходит для",
+    "kz": "Кімге сай",
+    "en": "Great for"
+   },
+   "chips": {
+    "ru": [
+     "Клиники",
+     "Стоматологии",
+     "Медцентры"
+    ],
+    "kz": [
+     "Клиникалар",
+     "Стоматологиялар",
+     "Медициналық орталықтар"
+    ],
+    "en": [
+     "Clinics",
+     "Dentists",
+     "Medical centers"
+    ]
+   },
+   "cta": {
+    "ru": "Хочу такой же сайт",
+    "kz": "Осындай сайт керек",
+    "en": "I want a site like this"
+   },
+   "ctaMsg": {
+    "ru": "Здравствуйте! Хочу сайт для клиники.",
+    "kz": "Сәлеметсіз бе! Клиникаға сайт керек.",
+    "en": "Hello! I’d like a website for a clinic."
+   },
+   "images": {
+    "cover": {
+     "src": "works/alatau/cover-c84c521e8c.webp",
+     "w": 1440,
+     "h": 900
+    },
+    "mobile": {
+     "src": "works/alatau/mobile-159d6d9320.webp",
+     "w": 520,
+     "h": 1125
+    },
+    "full": {
+     "src": "works/alatau/full-d0b305f635.webp",
+     "w": 1200,
+     "h": 2319
+    }
+   },
+   "createdAt": "2026-09-20T09:00:00.000Z",
+   "updatedAt": "2026-09-20T09:00:00.000Z"
+  },
+  {
+   "id": "bilim",
+   "title": "Bilim Online",
+   "kind": "concept",
+   "visible": true,
+   "featured": false,
+   "dark": false,
+   "domain": "bilim.online",
+   "link": "",
+   "categories": [
+    "platform"
+   ],
+   "label": {
+    "ru": "Платформа · Онлайн-школа",
+    "kz": "Платформа · Онлайн мектеп",
+    "en": "Platform · Online school"
+   },
+   "short": {
+    "ru": "Онлайн-школа: каталог курсов, плеер уроков, прогресс и сертификаты.",
+    "kz": "Онлайн мектеп: курстар каталогы, сабақ плеері, прогресс және сертификаттар.",
+    "en": "An online school with a course catalog, lesson player, progress and certificates."
+   },
+   "lead": {
+    "ru": "Платформа онлайн-курсов на казахском и русском: каталог, уроки, домашние задания и сертификаты.",
+    "kz": "Қазақ және орыс тіліндегі онлайн курстар платформасы: каталог, сабақтар, үй тапсырмалары және сертификаттар.",
+    "en": "An online course platform in Kazakh and Russian with a catalog, lessons, homework and certificates."
+   },
+   "listTitle": {
+    "ru": "Что внутри",
+    "kz": "Ішінде не бар",
+    "en": "What’s inside"
+   },
+   "list": {
+    "ru": [
+     "Каталог курсов с ценами",
+     "Плеер уроков и прогресс ученика",
+     "Личный кабинет и сертификаты"
+    ],
+    "kz": [
+     "Бағасы бар курстар каталогы",
+     "Сабақ плеері және оқушы прогресі",
+     "Жеке кабинет және сертификаттар"
+    ],
+    "en": [
+     "Course catalog with prices",
+     "Lesson player and student progress",
+     "Student account and certificates"
+    ]
+   },
+   "chipsTitle": {
+    "ru": "Подходит для",
+    "kz": "Кімге сай",
+    "en": "Great for"
+   },
+   "chips": {
+    "ru": [
+     "Онлайн-школы",
+     "Учебные центры",
+     "Эксперты"
+    ],
+    "kz": [
+     "Онлайн мектептер",
+     "Оқу орталықтары",
+     "Сарапшылар"
+    ],
+    "en": [
+     "Online schools",
+     "Training centers",
+     "Experts"
+    ]
+   },
+   "cta": {
+    "ru": "Хочу такую же платформу",
+    "kz": "Осындай платформа керек",
+    "en": "I want a platform like this"
+   },
+   "ctaMsg": {
+    "ru": "Здравствуйте! Хочу платформу для онлайн-курсов.",
+    "kz": "Сәлеметсіз бе! Онлайн курстарға платформа керек.",
+    "en": "Hello! I’d like an online course platform."
+   },
+   "images": {
+    "cover": {
+     "src": "works/bilim/cover-39ad10470a.webp",
+     "w": 1440,
+     "h": 900
+    },
+    "mobile": {
+     "src": "works/bilim/mobile-52f53a4914.webp",
+     "w": 520,
+     "h": 1125
+    },
+    "full": {
+     "src": "works/bilim/full-5b727ea137.webp",
+     "w": 1200,
+     "h": 1494
+    }
+   },
+   "createdAt": "2026-09-20T09:00:00.000Z",
+   "updatedAt": "2026-09-20T09:00:00.000Z"
+  },
+  {
+   "id": "dala",
+   "title": "Dala Cargo",
+   "kind": "concept",
+   "visible": true,
+   "featured": false,
+   "dark": true,
+   "domain": "dalacargo.kz",
+   "link": "",
+   "categories": [
+    "corp"
+   ],
+   "label": {
+    "ru": "Сайт · Логистика",
+    "kz": "Сайт · Логистика",
+    "en": "Website · Logistics"
+   },
+   "short": {
+    "ru": "Грузоперевозки по Казахстану: карта маршрутов, отслеживание и калькулятор.",
+    "kz": "Қазақстан бойынша жүк тасымалы: бағыттар картасы, бақылау және калькулятор.",
+    "en": "Freight across Kazakhstan with a route map, tracking and a cost calculator."
+   },
+   "lead": {
+    "ru": "Корпоративный сайт транспортной компании с картой Казахстана, отслеживанием груза и расчётом стоимости.",
+    "kz": "Қазақстан картасы, жүкті бақылау және құнын есептеуі бар көлік компаниясының корпоративтік сайты.",
+    "en": "A corporate website for a freight company with a map of Kazakhstan, shipment tracking and cost estimates."
+   },
+   "listTitle": {
+    "ru": "Что внутри",
+    "kz": "Ішінде не бар",
+    "en": "What’s inside"
+   },
+   "list": {
+    "ru": [
+     "Интерактивная карта маршрутов",
+     "Отслеживание по номеру накладной",
+     "Калькулятор доставки"
+    ],
+    "kz": [
+     "Бағыттардың интерактивті картасы",
+     "Жүкқұжат нөмірі бойынша бақылау",
+     "Жеткізу калькуляторы"
+    ],
+    "en": [
+     "Interactive route map",
+     "Tracking by waybill number",
+     "Delivery calculator"
+    ]
+   },
+   "chipsTitle": {
+    "ru": "Подходит для",
+    "kz": "Кімге сай",
+    "en": "Great for"
+   },
+   "chips": {
+    "ru": [
+     "Логистика",
+     "Доставка",
+     "B2B-компании"
+    ],
+    "kz": [
+     "Логистика",
+     "Жеткізу",
+     "B2B компаниялары"
+    ],
+    "en": [
+     "Logistics",
+     "Delivery",
+     "B2B companies"
+    ]
+   },
+   "cta": {
+    "ru": "Хочу такой же сайт",
+    "kz": "Осындай сайт керек",
+    "en": "I want a site like this"
+   },
+   "ctaMsg": {
+    "ru": "Здравствуйте! Хочу корпоративный сайт для компании.",
+    "kz": "Сәлеметсіз бе! Компанияға корпоративтік сайт керек.",
+    "en": "Hello! I’d like a corporate website for my company."
+   },
+   "images": {
+    "cover": {
+     "src": "works/dala/cover-2a5ab210b4.webp",
+     "w": 1440,
+     "h": 900
+    },
+    "mobile": {
+     "src": "works/dala/mobile-c646686d3c.webp",
+     "w": 520,
+     "h": 1125
+    },
+    "full": {
+     "src": "works/dala/full-fba2461b16.webp",
+     "w": 1200,
+     "h": 1454
+    }
+   },
+   "createdAt": "2026-09-20T09:00:00.000Z",
+   "updatedAt": "2026-09-20T09:00:00.000Z"
+  },
+  {
+   "id": "adal",
+   "title": "Adal Partners",
+   "kind": "concept",
+   "visible": true,
+   "featured": false,
+   "dark": false,
+   "domain": "adal-partners.kz",
+   "link": "",
+   "categories": [
+    "corp"
+   ],
+   "label": {
+    "ru": "Сайт · Юристы",
+    "kz": "Сайт · Заңгерлер",
+    "en": "Website · Law firm"
+   },
+   "short": {
+    "ru": "Сайт юридической фирмы: практики, подход и запись на консультацию.",
+    "kz": "Заң фирмасының сайты: тәжірибе бағыттары, тәсіл және кеңеске жазылу.",
+    "en": "A law firm website with practice areas, approach and consultation booking."
+   },
+   "lead": {
+    "ru": "Строгий и солидный сайт юридической фирмы: практики, подход к работе и запись на консультацию.",
+    "kz": "Заң фирмасының байсалды әрі сенімді сайты: тәжірибе бағыттары, жұмыс тәсілі және кеңеске жазылу.",
+    "en": "A clean, authoritative law firm website with practice areas, the firm’s approach and consultation booking."
+   },
+   "listTitle": {
+    "ru": "Что внутри",
+    "kz": "Ішінде не бар",
+    "en": "What’s inside"
+   },
+   "list": {
+    "ru": [
+     "Практики с описанием",
+     "Результаты и цифры фирмы",
+     "Запись на консультацию"
+    ],
+    "kz": [
+     "Сипаттамасы бар тәжірибе бағыттары",
+     "Фирманың нәтижелері мен сандары",
+     "Кеңеске жазылу"
+    ],
+    "en": [
+     "Practice areas with descriptions",
+     "Results and key figures",
+     "Consultation booking"
+    ]
+   },
+   "chipsTitle": {
+    "ru": "Подходит для",
+    "kz": "Кімге сай",
+    "en": "Great for"
+   },
+   "chips": {
+    "ru": [
+     "Юристы",
+     "Консалтинг",
+     "Бухгалтерия"
+    ],
+    "kz": [
+     "Заңгерлер",
+     "Консалтинг",
+     "Бухгалтерия"
+    ],
+    "en": [
+     "Lawyers",
+     "Consulting",
+     "Accounting"
+    ]
+   },
+   "cta": {
+    "ru": "Хочу такой же сайт",
+    "kz": "Осындай сайт керек",
+    "en": "I want a site like this"
+   },
+   "ctaMsg": {
+    "ru": "Здравствуйте! Хочу сайт для юридической или консалтинговой компании.",
+    "kz": "Сәлеметсіз бе! Заң немесе консалтинг компаниясына сайт керек.",
+    "en": "Hello! I’d like a website for a law or consulting firm."
+   },
+   "images": {
+    "cover": {
+     "src": "works/adal/cover-d64f312664.webp",
+     "w": 1440,
+     "h": 900
+    },
+    "mobile": {
+     "src": "works/adal/mobile-20d84f31da.webp",
+     "w": 520,
+     "h": 1125
+    },
+    "full": {
+     "src": "works/adal/full-839dbaa42c.webp",
+     "w": 1200,
+     "h": 1729
+    }
+   },
+   "createdAt": "2026-09-20T09:00:00.000Z",
+   "updatedAt": "2026-09-20T09:00:00.000Z"
+  }
+ ],
+ "trash": []
+}
