@@ -1,7 +1,7 @@
 {
  "version": 1,
- "rev": 10,
- "updatedAt": "2026-10-05T11:33:08.378Z",
+ "rev": 11,
+ "updatedAt": "2026-10-05T11:43:59.641Z",
  "hero": {
   "laptop": "alatau",
   "phone": "bilim"
@@ -249,29 +249,29 @@
   {
    "id": "alatau",
    "title": "Alatau Prime Construction",
-   "kind": "concept",
+   "kind": "real",
    "visible": true,
    "featured": true,
-   "dark": false,
-   "domain": "alatau-dental.kz",
-   "link": "",
+   "dark": true,
+   "domain": "https://alatauprime.kz/",
+   "link": "https://alatauprime.kz/",
    "categories": [
     "corp"
    ],
    "label": {
-    "ru": "Сайт · Стоматология",
-    "kz": "Сайт · Стоматология",
-    "en": "Website · Dental clinic"
+    "ru": "Сайт · Строительство",
+    "kz": "Сайт · Құрылыс",
+    "en": "Website · Construction"
    },
    "short": {
-    "ru": "Сайт клиники с услугами, ценами и онлайн-записью.",
-    "kz": "Қызметтері, бағалары және онлайн жазылуы бар клиника сайты.",
-    "en": "A clinic website with services, prices and online booking."
+    "ru": "Корпоративный сайт строительной компании: проекты, услуги, карьера и анонимное обращение.",
+    "kz": "Құрылыс компаниясының корпоративтік сайты: жобалар, қызметтер, мансап және анонимді өтініш.",
+    "en": "A corporate website for a construction company: projects, services, careers and anonymous reporting."
    },
    "lead": {
-    "ru": "Сайт стоматологии, которому доверяют: спокойный светлый дизайн, честные цены и запись в пару кликов.",
-    "kz": "Сенім тудыратын стоматология сайты: тыныш ашық дизайн, адал бағалар және бірнеше рет басып жазылу.",
-    "en": "A dental clinic website people trust: calm, bright design, honest prices and booking in a couple of clicks."
+    "ru": "Солидный сайт генподрядчика: мощный первый экран с реальной стройкой, портфолио объектов, вакансии и форма анонимного обращения. Сразу видно масштаб компании и её опыт.",
+    "kz": "Бас мердігердің байсалды сайты: нақты құрылыс алаңы бар әсерлі бірінші экран, нысандар портфолиосы, бос жұмыс орындары және анонимді өтініш формасы. Компанияның ауқымы мен тәжірибесі бірден көрінеді.",
+    "en": "A solid website for a general contractor: a striking first screen with a real construction site, a project portfolio, job openings and an anonymous report form. The company’s scale and experience are clear at a glance."
    },
    "listTitle": {
     "ru": "Что внутри",
@@ -280,19 +280,25 @@
    },
    "list": {
     "ru": [
-     "Услуги с ценами «от»",
-     "Онлайн-запись и обратный звонок",
-     "Блок о клинике и оборудовании"
+     "Портфолио реализованных объектов",
+     "Промышленное, коммерческое и инфраструктурное строительство",
+     "Цифры компании и видео о работе",
+     "Раздел «Карьера» с вакансиями",
+     "Анонимное обращение для сотрудников и партнёров"
     ],
     "kz": [
-     "«Бастап» бағасы бар қызметтер",
-     "Онлайн жазылу және кері қоңырау",
-     "Клиника мен жабдық туралы блок"
+     "Салынған нысандар портфолиосы",
+     "Өнеркәсіптік, коммерциялық және инфрақұрылымдық құрылыс",
+     "Компания көрсеткіштері және жұмыс туралы бейне",
+     "Бос жұмыс орындары бар «Мансап» бөлімі",
+     "Қызметкерлер мен серіктестерге арналған анонимді өтініш"
     ],
     "en": [
-     "Services with starting prices",
-     "Online booking and callback requests",
-     "Clinic and equipment section"
+     "Portfolio of completed projects",
+     "Industrial, commercial and infrastructure construction",
+     "Company figures and a video about the work",
+     "Careers section with job openings",
+     "Anonymous reporting for employees and partners"
     ]
    },
    "chipsTitle": {
@@ -302,19 +308,22 @@
    },
    "chips": {
     "ru": [
-     "Клиники",
-     "Стоматологии",
-     "Медцентры"
+     "Строительные компании",
+     "Девелоперы",
+     "Генподрядчики",
+     "Промышленные предприятия"
     ],
     "kz": [
-     "Клиникалар",
-     "Стоматологиялар",
-     "Медициналық орталықтар"
+     "Құрылыс компаниялары",
+     "Девелоперлер",
+     "Бас мердігерлер",
+     "Өнеркәсіп кәсіпорындары"
     ],
     "en": [
-     "Clinics",
-     "Dentists",
-     "Medical centers"
+     "Construction companies",
+     "Developers",
+     "General contractors",
+     "Industrial enterprises"
     ]
    },
    "cta": {
@@ -323,9 +332,9 @@
     "en": "I want a site like this"
    },
    "ctaMsg": {
-    "ru": "Здравствуйте! Хочу сайт для клиники.",
-    "kz": "Сәлеметсіз бе! Клиникаға сайт керек.",
-    "en": "Hello! I’d like a website for a clinic."
+    "ru": "Здравствуйте! Хочу сайт для строи компании.",
+    "kz": "Сәлеметсіз бе! Құрылыс компанияма сайт керек.",
+    "en": "Hello! I’d like a website for a construction."
    },
    "images": {
     "cover": {
@@ -345,7 +354,7 @@
     }
    },
    "createdAt": "2026-09-20T09:00:00.000Z",
-   "updatedAt": "2026-10-05T11:29:54.551Z"
+   "updatedAt": "2026-10-05T11:43:56.837Z"
   },
   {
    "id": "bilim",
