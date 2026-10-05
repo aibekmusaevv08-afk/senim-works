@@ -1,7 +1,7 @@
 {
  "version": 1,
- "rev": 2,
- "updatedAt": "2026-10-05T10:32:06.301Z",
+ "rev": 3,
+ "updatedAt": "2026-10-05T10:32:15.581Z",
  "hero": {
   "laptop": "",
   "phone": ""
@@ -149,7 +149,7 @@
    "id": "qadam",
    "title": "Qadam Coffee",
    "kind": "concept",
-   "visible": false,
+   "visible": true,
    "featured": true,
    "dark": false,
    "domain": "qadam.coffee",
