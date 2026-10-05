@@ -1,7 +1,7 @@
 {
  "version": 1,
- "rev": 3,
- "updatedAt": "2026-10-05T10:32:15.581Z",
+ "rev": 4,
+ "updatedAt": "2026-10-05T10:39:58.341Z",
  "hero": {
   "laptop": "",
   "phone": ""
@@ -127,7 +127,7 @@
    },
    "images": {
     "cover": {
-     "src": "works/jiger/cover-b8885e029e.webp",
+     "src": "works/jiger/cover-98c82ca354.webp",
      "w": 1440,
      "h": 900
     },
@@ -137,13 +137,13 @@
      "h": 1125
     },
     "full": {
-     "src": "works/jiger/full-872a1fac08.webp",
+     "src": "works/jiger/full-3504a44205.webp",
      "w": 1200,
-     "h": 799
+     "h": 749
     }
    },
    "createdAt": "2026-09-20T09:00:00.000Z",
-   "updatedAt": "2026-09-20T09:00:00.000Z"
+   "updatedAt": "2026-10-05T10:39:49.746Z"
   },
   {
    "id": "qadam",
