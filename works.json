@@ -1,10 +1,10 @@
 {
  "version": 1,
- "rev": 7,
- "updatedAt": "2026-10-05T11:30:01.670Z",
+ "rev": 8,
+ "updatedAt": "2026-10-05T11:31:49.190Z",
  "hero": {
-  "laptop": "jiger",
-  "phone": ""
+  "laptop": "alatau",
+  "phone": "bilim"
  },
  "categories": [
   {
