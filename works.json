@@ -1,9 +1,9 @@
 {
  "version": 1,
- "rev": 4,
- "updatedAt": "2026-10-05T10:39:58.341Z",
+ "rev": 5,
+ "updatedAt": "2026-10-05T10:49:52.939Z",
  "hero": {
-  "laptop": "",
+  "laptop": "jiger",
   "phone": ""
  },
  "categories": [
