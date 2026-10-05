@@ -1,7 +1,7 @@
 {
  "version": 1,
- "rev": 6,
- "updatedAt": "2026-10-05T10:50:03.293Z",
+ "rev": 7,
+ "updatedAt": "2026-10-05T11:30:01.670Z",
  "hero": {
   "laptop": "jiger",
   "phone": ""
@@ -248,7 +248,7 @@
   },
   {
    "id": "alatau",
-   "title": "Alatau Dental",
+   "title": "Alatau Prime Construction",
    "kind": "concept",
    "visible": true,
    "featured": true,
@@ -329,23 +329,23 @@
    },
    "images": {
     "cover": {
-     "src": "works/alatau/cover-c84c521e8c.webp",
+     "src": "works/alatau/cover-ed84599482.webp",
      "w": 1440,
      "h": 900
     },
     "mobile": {
-     "src": "works/alatau/mobile-159d6d9320.webp",
+     "src": "works/alatau/mobile-3894f9b248.webp",
      "w": 520,
      "h": 1125
     },
     "full": {
-     "src": "works/alatau/full-d0b305f635.webp",
+     "src": "works/alatau/full-6a0498414f.webp",
      "w": 1200,
-     "h": 2319
+     "h": 645
     }
    },
    "createdAt": "2026-09-20T09:00:00.000Z",
-   "updatedAt": "2026-09-20T09:00:00.000Z"
+   "updatedAt": "2026-10-05T11:29:54.551Z"
   },
   {
    "id": "bilim",
